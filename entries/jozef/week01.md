@@ -1,0 +1,5 @@
+# Week 1
+### Deciding a Topic
+Well I've had a few ideas for starting. I could try out that Halite AI challenge, try my hand at modding games, or even try out some of those evolution programs or data sorting videos I've seen on youtube. In the end I decided to try making my own game with a friend of mine.
+### What We'll be Learning
+We decided to try making our game on a programming language called Lua. It's a language made to be compact and powerful, and it's commonly used in a lot of games, which is the reason why we chose it. Next, we have to find some sort of compiler for it, or some way to code and run in the program. We then found a site called Tutorialspoint (https://www.tutorialspoint.com/index.htm). It has a tutorial for Lua and an IDE for it, but the IDE doesn't seem to work. Either we find out how to make it work or find something else that can work for us.
